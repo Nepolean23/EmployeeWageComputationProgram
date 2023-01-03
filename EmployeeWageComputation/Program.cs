@@ -6,4 +6,7 @@
 //EmployeeWageCalculation.EmployeeWage();
 
 //Parttime Employee Wage Calculation
-ParttimeEmployee.Parttime();
+//ParttimeEmployee.Parttime();
+
+//Calculating Employee Wage Using SwitchCase
+CalculatingEmployeeWage.CalEmployeeWage();
