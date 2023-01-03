@@ -3,4 +3,7 @@
 //EmployeeAttendance.Attendance();
 
 //Employee Wage Calculation
-EmployeeWageCalculation.EmployeeWage();
+//EmployeeWageCalculation.EmployeeWage();
+
+//Parttime Employee Wage Calculation
+ParttimeEmployee.Parttime();
