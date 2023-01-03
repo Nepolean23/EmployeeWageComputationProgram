@@ -11,4 +11,8 @@
 //Calculating Employee Wage Using SwitchCase
 //CalculatingEmployeeWage.CalEmployeeWage();
 
-CalculatingWagesForAMonth.WagePerMonth();
+//Calculating Employee Wage For 20 Days
+//CalculatingWagesForAMonth.WagePerMonth();
+
+//Calculating Employee Wage For Max 100hrs and 20days
+CalculatingWagesOnHrsAndDays.WagesOnHrsAndDays();
