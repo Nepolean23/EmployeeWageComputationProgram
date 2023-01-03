@@ -1,3 +1,6 @@
 ﻿using EmployeeWageComputation;
 //Employee Attendance
-EmployeeAttendance.Attendance();
+//EmployeeAttendance.Attendance();
+
+//Employee Wage Calculation
+EmployeeWageCalculation.EmployeeWage();
