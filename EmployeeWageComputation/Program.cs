@@ -15,6 +15,8 @@
 //CalculatingWagesForAMonth.WagePerMonth();
 
 //Calculating Employee Wage For Max 100hrs and 20days
-CalculatingWagesOnHrsAndDays.WagesOnHrsAndDays();
+//CalculatingWagesOnHrsAndDays.WagesOnHrsAndDays();
+
+
 
 
