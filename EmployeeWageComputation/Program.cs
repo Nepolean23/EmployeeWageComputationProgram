@@ -17,14 +17,16 @@
 //Calculating Employee Wage For Max 100hrs and 20days
 //CalculatingWagesOnHrsAndDays.WagesOnHrsAndDays();
 
-    
-        EmpWageBuilder empWageBuilder = new EmpWageBuilder();
-        empWageBuilder.addCompanyEmpWage("Dmart", 20, 2, 10);
-        empWageBuilder.addCompanyEmpWage("Reliance", 10, 4, 20);
-        empWageBuilder.computeEmpWage();
-        Console.WriteLine("Total Wage for Dmart company: " + empWageBuilder.getTotalWage("Dmart"));
+//Final solution for EmployeeWage Program
+EmpWageBuilder empWageBuilder = new EmpWageBuilder();
+empWageBuilder.addCompanyEmpWage("Dmart", 20, 2, 10);
+empWageBuilder.addCompanyEmpWage("Reliance", 10, 4, 20);
+empWageBuilder.computeEmpWage();
+Console.WriteLine("Total Wage for Dmart company: " + empWageBuilder.getTotalWage("Dmart"));
 
-    
+
+
+
 
 
 
